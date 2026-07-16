@@ -3,7 +3,7 @@ Explainable AI-Based Crowd Risk Prediction Using CCTV Surveillance
 
 Presented by:
 
-Name : Venkata Prabhath
+Name : Venkata Prabhath 
 Reg No : 23BDS0168
 Department : SCOPE
 College Name : VIT vellore
