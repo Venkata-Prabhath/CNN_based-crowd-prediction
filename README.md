@@ -119,7 +119,7 @@ This project proposes an Explainable AI-based crowd risk prediction system that 
 
 The system aims to improve surveillance by providing accurate risk prediction along with transparent explanations, helping authorities make informed decisions during crowded situations.
 
-If the faculty asks: "What is the novelty?"
+"What is the novelty?"
 
 You can say:
 
