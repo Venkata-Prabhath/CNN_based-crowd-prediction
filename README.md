@@ -121,6 +121,9 @@ The system aims to improve surveillance by providing accurate risk prediction al
 
 "What is the novelty?"
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Techniques I am planning
 
 Existing systems often predict crowd density but do not clearly explain why a particular risk level was assigned. Our proposed work integrates Explainable AI techniques with CNN-based crowd analysis to provide visual explanations, making the predictions more transparent and reliable. We also plan to explore improvements in CNN feature extraction to enhance prediction accuracy.
 
